@@ -1,0 +1,19 @@
+#!/usr/bin/expect
+
+set timeout -1
+spawn ./lua/cmd2.sh
+expect "Enter Import Password:"
+send "\n"
+expect "Enter PEM pass phrase:"
+send "xmapple\n"
+expect "Verifying - Enter PEM pass phrase:"
+send "xmapple\n"
+expect eof
+exit
+#interact
+#exit
+#set timeout 20
+#spawn ./lua/cmd3.sh
+#expect "Enter Import Password:"
+#send "xmapple\r"
+#interact

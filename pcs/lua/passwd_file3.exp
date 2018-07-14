@@ -1,0 +1,9 @@
+#!/usr/bin/expect
+
+set timeout -1
+spawn ./lua/cmd3.sh
+expect "Enter pass phrase for*:"
+send "xmapple\n"
+expect eof
+exit
+

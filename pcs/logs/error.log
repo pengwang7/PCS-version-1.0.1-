@@ -1,0 +1,358 @@
+2018/06/13 15:40:38 [warn] 20806#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:40:38 [alert] 20806#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:40:38 [notice] 20806#0: signal process started
+2018/06/13 15:40:38 [error] 20806#0: invalid PID number "" in "/home/wangpeng/ngx/openresty/pcs/logs/pcs_nginx.pid"
+2018/06/13 15:40:42 [warn] 20809#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:40:42 [alert] 20809#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:40:47 [warn] 20813#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:40:47 [alert] 20813#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:40:47 [notice] 20813#0: signal process started
+2018/06/13 15:40:47 [error] 20813#0: invalid PID number "" in "/home/wangpeng/ngx/openresty/pcs/logs/pcs_nginx.pid"
+2018/06/13 15:44:28 [warn] 20890#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:44:28 [alert] 20890#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:44:28 [notice] 20890#0: signal process started
+2018/06/13 15:44:28 [error] 20890#0: invalid PID number "" in "/home/wangpeng/ngx/openresty/pcs/logs/pcs_nginx.pid"
+2018/06/13 15:44:35 [warn] 20895#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:44:35 [alert] 20895#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:44:35 [notice] 20895#0: signal process started
+2018/06/13 15:44:35 [error] 20895#0: invalid PID number "" in "/home/wangpeng/ngx/openresty/pcs/logs/pcs_nginx.pid"
+2018/06/13 15:44:38 [warn] 20900#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:44:38 [alert] 20900#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:44:45 [warn] 20904#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:44:45 [alert] 20904#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:44:45 [notice] 20904#0: signal process started
+2018/06/13 15:44:47 [warn] 20907#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:44:47 [alert] 20907#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:46:22 [warn] 21001#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:46:22 [alert] 21001#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:46:22 [notice] 21001#0: signal process started
+2018/06/13 15:47:53 [warn] 21023#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:47:53 [alert] 21023#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:49:11 [warn] 21047#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:49:11 [alert] 21047#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:49:11 [notice] 21047#0: signal process started
+2018/06/13 15:50:08 [warn] 21066#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:50:08 [alert] 21066#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:50:10 [warn] 21072#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:50:10 [alert] 21072#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:50:10 [notice] 21072#0: signal process started
+2018/06/13 15:50:25 [warn] 21078#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:50:25 [alert] 21078#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:50:25 [notice] 21078#0: signal process started
+2018/06/13 15:50:25 [error] 21078#0: open() "/home/wangpeng/ngx/openresty/pcs/logs/pcs_nginx.pid" failed (2: No such file or directory)
+2018/06/13 15:50:29 [warn] 21082#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:50:29 [alert] 21082#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:51:39 [warn] 21105#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:51:39 [alert] 21105#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:51:39 [notice] 21105#0: signal process started
+2018/06/13 15:54:05 [warn] 21154#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:54:05 [alert] 21154#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:54:06 [warn] 21158#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:54:06 [alert] 21158#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:54:56 [warn] 21169#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:54:56 [alert] 21169#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:54:56 [notice] 21169#0: signal process started
+2018/06/13 15:58:54 [warn] 21242#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:58:54 [alert] 21242#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:59:47 [warn] 21263#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 15:59:47 [alert] 21263#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 15:59:47 [notice] 21263#0: signal process started
+2018/06/13 16:00:32 [warn] 21291#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 16:00:32 [alert] 21291#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 16:01:22 [warn] 21326#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 16:01:22 [alert] 21326#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 16:01:22 [notice] 21326#0: signal process started
+2018/06/13 16:02:41 [warn] 21350#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 16:02:41 [alert] 21350#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 16:03:21 [warn] 21374#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 16:03:21 [alert] 21374#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 16:03:21 [notice] 21374#0: signal process started
+2018/06/13 16:12:50 [warn] 21530#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 16:12:50 [alert] 21530#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 16:17:19 [warn] 21611#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 16:17:19 [alert] 21611#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 16:18:10 [warn] 21628#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 16:18:10 [alert] 21628#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 16:18:10 [notice] 21628#0: signal process started
+2018/06/13 16:19:36 [warn] 21651#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 16:19:36 [alert] 21651#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 16:20:49 [warn] 21681#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 16:20:49 [alert] 21681#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 16:20:49 [notice] 21681#0: signal process started
+2018/06/13 16:23:19 [warn] 21724#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 16:23:19 [alert] 21724#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 16:25:39 [warn] 21769#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/13 16:25:39 [alert] 21769#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/13 16:25:39 [notice] 21769#0: signal process started
+2018/06/19 15:06:17 [warn] 8515#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/19 15:06:17 [alert] 8515#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/19 15:07:26 [warn] 8588#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/19 15:07:26 [alert] 8588#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/19 15:07:26 [notice] 8588#0: signal process started
+2018/06/20 14:13:35 [warn] 32681#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/20 14:13:35 [alert] 32681#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/20 14:16:37 [warn] 309#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/20 14:16:37 [alert] 309#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/20 14:16:37 [notice] 309#0: signal process started
+2018/06/20 14:16:45 [warn] 313#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/20 14:16:45 [alert] 313#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/20 14:19:13 [warn] 713#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/20 14:19:13 [alert] 713#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/20 14:19:13 [notice] 713#0: signal process started
+2018/06/20 14:20:46 [warn] 1082#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/20 14:20:46 [alert] 1082#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/20 14:20:46 [notice] 1082#0: signal process started
+2018/06/20 14:21:25 [warn] 1103#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/20 14:21:25 [alert] 1103#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/20 14:21:25 [notice] 1103#0: signal process started
+2018/06/20 15:09:00 [warn] 2149#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/20 15:09:00 [alert] 2149#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/20 15:09:00 [notice] 2149#0: signal process started
+2018/06/20 15:50:22 [warn] 3707#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/20 15:50:22 [alert] 3707#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/20 15:50:22 [notice] 3707#0: signal process started
+2018/06/20 16:53:40 [warn] 7131#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/20 16:53:40 [alert] 7131#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/20 16:53:40 [notice] 7131#0: signal process started
+2018/06/26 10:28:34 [warn] 29699#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/26 10:28:34 [alert] 29699#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/26 10:28:34 [notice] 29699#0: signal process started
+2018/06/26 14:10:50 [warn] 15602#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/26 14:10:50 [alert] 15602#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/26 14:10:50 [notice] 15602#0: signal process started
+2018/06/26 14:47:22 [warn] 17243#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/26 14:47:22 [alert] 17243#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/26 14:47:22 [notice] 17243#0: signal process started
+2018/06/26 14:49:51 [warn] 17299#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/26 14:49:51 [alert] 17299#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/26 14:49:51 [notice] 17299#0: signal process started
+2018/06/26 14:50:07 [warn] 17322#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/26 14:50:07 [alert] 17322#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/26 14:50:07 [notice] 17322#0: signal process started
+2018/06/26 14:50:07 [error] 17322#0: open() "/home/wangpeng/ngx/openresty/pcs/logs/pcs_nginx.pid" failed (2: No such file or directory)
+2018/06/26 14:50:43 [warn] 17331#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/26 14:50:43 [alert] 17331#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/26 14:51:28 [warn] 17816#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/26 14:51:28 [alert] 17816#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/26 14:51:28 [notice] 17816#0: signal process started
+2018/06/26 14:51:28 [error] 17816#0: open() "/home/wangpeng/ngx/openresty/pcs/logs/pcs_nginx.pid" failed (2: No such file or directory)
+2018/06/26 14:51:31 [warn] 18292#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/26 14:51:31 [alert] 18292#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/26 14:57:31 [warn] 26306#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/26 14:57:31 [alert] 26306#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/26 14:57:31 [notice] 26306#0: signal process started
+2018/06/26 15:02:22 [warn] 26470#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/26 15:02:22 [alert] 26470#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/26 15:02:22 [notice] 26470#0: signal process started
+2018/06/26 15:05:56 [warn] 680#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/26 15:05:56 [alert] 680#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/26 15:05:56 [notice] 680#0: signal process started
+2018/06/26 15:07:14 [warn] 1106#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/26 15:07:14 [alert] 1106#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/26 15:07:14 [notice] 1106#0: signal process started
+2018/06/27 09:43:40 [warn] 17081#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/27 09:43:40 [alert] 17081#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/27 09:43:40 [notice] 17081#0: signal process started
+2018/06/27 14:57:58 [warn] 28112#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/27 14:57:58 [alert] 28112#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/27 14:57:58 [notice] 28112#0: signal process started
+2018/06/29 15:52:14 [warn] 11845#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:1
+2018/06/29 15:52:14 [alert] 11845#0: lua_code_cache is off; this will hurt performance in /home/wangpeng/ngx/openresty/pcs/conf/nginx.conf:28
+2018/06/29 15:52:14 [notice] 11845#0: signal process started
+2018/06/30 09:22:55 [emerg] 1372568#0: getpwnam("wangpeng") failed in /root/wangpeng/pcs/conf/nginx.conf:1
+2018/06/30 09:23:17 [alert] 1372679#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/06/30 09:23:17 [notice] 1372679#0: signal process started
+2018/06/30 09:23:17 [alert] 1372679#0: kill(18292, 1) failed (3: No such process)
+2018/06/30 09:23:25 [alert] 1372683#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/06/30 09:24:56 [alert] 1372809#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/06/30 09:25:40 [alert] 1372954#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/06/30 09:25:40 [notice] 1372954#0: signal process started
+2018/06/30 09:33:30 [alert] 1373922#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/06/30 09:33:30 [notice] 1373922#0: signal process started
+2018/06/30 09:34:52 [alert] 1374086#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/06/30 09:34:52 [notice] 1374086#0: signal process started
+2018/06/30 11:02:59 [alert] 1384657#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/06/30 11:02:59 [notice] 1384657#0: signal process started
+2018/06/30 11:17:26 [alert] 1386673#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/06/30 11:17:26 [notice] 1386673#0: signal process started
+2018/06/30 13:12:13 [alert] 1400704#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/06/30 13:12:13 [notice] 1400704#0: signal process started
+2018/06/30 13:15:27 [alert] 1401270#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/06/30 13:15:27 [notice] 1401270#0: signal process started
+2018/06/30 13:20:54 [alert] 1401915#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/06/30 13:20:54 [notice] 1401915#0: signal process started
+2018/06/30 13:25:40 [alert] 1402619#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/06/30 13:25:40 [notice] 1402619#0: signal process started
+2018/06/30 13:26:33 [alert] 1402773#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/06/30 13:26:33 [notice] 1402773#0: signal process started
+2018/06/30 13:28:05 [alert] 1402996#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/06/30 13:28:10 [alert] 1403000#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/06/30 13:28:10 [notice] 1403000#0: signal process started
+2018/07/02 09:03:34 [alert] 1712700#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 09:03:34 [notice] 1712700#0: signal process started
+2018/07/02 09:10:11 [alert] 1713841#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 09:10:11 [notice] 1713841#0: signal process started
+2018/07/02 09:17:54 [alert] 1714741#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 09:17:54 [notice] 1714741#0: signal process started
+2018/07/02 09:25:07 [alert] 1716018#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 09:25:07 [notice] 1716018#0: signal process started
+2018/07/02 09:25:11 [alert] 1716051#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 09:25:11 [notice] 1716051#0: signal process started
+2018/07/02 09:40:09 [alert] 1717860#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 09:40:09 [notice] 1717860#0: signal process started
+2018/07/02 09:42:14 [alert] 1718203#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 09:42:14 [notice] 1718203#0: signal process started
+2018/07/02 09:50:02 [alert] 1719254#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 09:50:02 [notice] 1719254#0: signal process started
+2018/07/02 10:19:46 [alert] 1722805#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 10:19:46 [notice] 1722805#0: signal process started
+2018/07/02 10:22:17 [alert] 1723360#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 10:22:17 [notice] 1723360#0: signal process started
+2018/07/02 10:28:04 [alert] 1724098#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 10:28:04 [notice] 1724098#0: signal process started
+2018/07/02 10:42:17 [alert] 1725894#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 10:42:17 [notice] 1725894#0: signal process started
+2018/07/02 10:44:32 [alert] 1726166#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 10:44:32 [notice] 1726166#0: signal process started
+2018/07/02 10:45:47 [alert] 1726320#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 10:45:47 [notice] 1726320#0: signal process started
+2018/07/02 10:56:56 [alert] 1727685#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 10:56:56 [notice] 1727685#0: signal process started
+2018/07/02 11:04:42 [alert] 1728852#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 11:04:42 [notice] 1728852#0: signal process started
+2018/07/02 11:07:34 [alert] 1729235#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 11:07:34 [notice] 1729235#0: signal process started
+2018/07/02 11:35:59 [alert] 1732772#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 11:35:59 [notice] 1732772#0: signal process started
+2018/07/02 11:36:20 [alert] 1732930#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 11:36:20 [notice] 1732930#0: signal process started
+2018/07/02 13:14:58 [alert] 1744983#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:14:58 [notice] 1744983#0: signal process started
+2018/07/02 13:15:02 [alert] 1745118#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:15:02 [notice] 1745118#0: signal process started
+2018/07/02 13:19:56 [alert] 1745611#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:19:56 [notice] 1745611#0: signal process started
+2018/07/02 13:19:59 [alert] 1745636#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:19:59 [notice] 1745636#0: signal process started
+2018/07/02 13:20:14 [alert] 1745795#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:20:14 [notice] 1745795#0: signal process started
+2018/07/02 13:22:48 [alert] 1746075#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:22:48 [notice] 1746075#0: signal process started
+2018/07/02 13:22:51 [alert] 1746090#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:22:51 [notice] 1746090#0: signal process started
+2018/07/02 13:23:32 [alert] 1746222#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:23:32 [notice] 1746222#0: signal process started
+2018/07/02 13:23:34 [alert] 1746226#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:23:34 [notice] 1746226#0: signal process started
+2018/07/02 13:24:17 [alert] 1746352#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:24:17 [notice] 1746352#0: signal process started
+2018/07/02 13:25:13 [alert] 1746495#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:25:13 [notice] 1746495#0: signal process started
+2018/07/02 13:29:41 [alert] 1746998#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:29:41 [notice] 1746998#0: signal process started
+2018/07/02 13:38:34 [alert] 1748311#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:38:34 [notice] 1748311#0: signal process started
+2018/07/02 13:39:26 [alert] 1748440#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:39:26 [notice] 1748440#0: signal process started
+2018/07/02 13:39:28 [alert] 1748444#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:39:28 [notice] 1748444#0: signal process started
+2018/07/02 13:41:02 [alert] 1748725#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:41:02 [notice] 1748725#0: signal process started
+2018/07/02 13:41:06 [alert] 1748748#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:41:06 [notice] 1748748#0: signal process started
+2018/07/02 13:43:01 [alert] 1748991#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:43:01 [notice] 1748991#0: signal process started
+2018/07/02 13:43:04 [alert] 1749037#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:43:04 [notice] 1749037#0: signal process started
+2018/07/02 13:43:59 [alert] 1749108#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/02 13:43:59 [notice] 1749108#0: signal process started
+2018/07/04 13:45:30 [alert] 2088803#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/04 13:45:30 [notice] 2088803#0: signal process started
+2018/07/04 13:46:32 [alert] 2088914#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/04 13:46:32 [notice] 2088914#0: signal process started
+2018/07/04 13:47:45 [alert] 2089095#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/04 13:47:45 [notice] 2089095#0: signal process started
+2018/07/04 13:49:53 [alert] 2089371#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/04 13:49:53 [notice] 2089371#0: signal process started
+2018/07/10 09:47:09 [alert] 3028135#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 09:47:09 [notice] 3028135#0: signal process started
+2018/07/10 09:49:16 [alert] 3028360#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 09:49:27 [alert] 3028363#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 09:49:27 [notice] 3028363#0: signal process started
+2018/07/10 09:49:27 [error] 3028363#0: open() "/root/wangpeng/pcs/logs/pcs_nginx.pid" failed (2: No such file or directory)
+2018/07/10 09:49:36 [alert] 3028366#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 09:49:36 [notice] 3028366#0: signal process started
+2018/07/10 09:49:36 [error] 3028366#0: open() "/root/wangpeng/pcs/logs/pcs_nginx.pid" failed (2: No such file or directory)
+2018/07/10 09:49:43 [alert] 3028371#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 09:54:51 [alert] 3028967#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 09:54:51 [notice] 3028967#0: signal process started
+2018/07/10 09:54:51 [error] 3028967#0: open() "/root/wangpeng/pcs/logs/pcs_nginx.pid" failed (2: No such file or directory)
+2018/07/10 09:55:01 [alert] 3029043#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 09:55:19 [alert] 3029083#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 09:55:19 [notice] 3029083#0: signal process started
+2018/07/10 09:55:30 [alert] 3029087#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 09:55:30 [notice] 3029087#0: signal process started
+2018/07/10 09:55:30 [error] 3029087#0: open() "/root/wangpeng/pcs/logs/pcs_nginx.pid" failed (2: No such file or directory)
+2018/07/10 09:55:33 [alert] 3029090#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 09:55:37 [alert] 3029094#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 09:55:37 [notice] 3029094#0: signal process started
+2018/07/10 09:56:13 [alert] 3029206#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 09:56:13 [notice] 3029206#0: signal process started
+2018/07/10 10:15:10 [alert] 3031342#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:15:10 [notice] 3031342#0: signal process started
+2018/07/10 10:16:11 [alert] 3031481#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:16:11 [notice] 3031481#0: signal process started
+2018/07/10 10:22:02 [alert] 3032200#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:22:02 [notice] 3032200#0: signal process started
+2018/07/10 10:22:41 [alert] 3032259#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:22:41 [notice] 3032259#0: signal process started
+2018/07/10 10:24:58 [alert] 3032473#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:24:58 [notice] 3032473#0: signal process started
+2018/07/10 10:25:34 [alert] 3032593#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:25:34 [notice] 3032593#0: signal process started
+2018/07/10 10:26:37 [alert] 3032705#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:26:37 [notice] 3032705#0: signal process started
+2018/07/10 10:27:48 [alert] 3032846#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:27:48 [notice] 3032846#0: signal process started
+2018/07/10 10:29:14 [alert] 3033078#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:29:14 [notice] 3033078#0: signal process started
+2018/07/10 10:30:09 [alert] 3033240#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:30:09 [notice] 3033240#0: signal process started
+2018/07/10 10:31:24 [alert] 3033378#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:31:24 [notice] 3033378#0: signal process started
+2018/07/10 10:34:12 [alert] 3033720#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:34:12 [notice] 3033720#0: signal process started
+2018/07/10 10:37:14 [alert] 3034234#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:37:14 [notice] 3034234#0: signal process started
+2018/07/10 10:39:16 [alert] 3034548#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:39:16 [notice] 3034548#0: signal process started
+2018/07/10 10:40:13 [alert] 3034733#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:40:13 [notice] 3034733#0: signal process started
+2018/07/10 10:48:21 [alert] 3035593#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:48:21 [notice] 3035593#0: signal process started
+2018/07/10 10:52:01 [alert] 3036428#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:52:01 [notice] 3036428#0: signal process started
+2018/07/10 10:52:07 [alert] 3036496#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:52:07 [notice] 3036496#0: signal process started
+2018/07/10 10:52:57 [alert] 3036540#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:52:57 [notice] 3036540#0: signal process started
+2018/07/10 10:54:46 [alert] 3036752#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:54:46 [notice] 3036752#0: signal process started
+2018/07/10 10:58:24 [alert] 3037534#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 10:58:24 [notice] 3037534#0: signal process started
+2018/07/10 11:00:55 [alert] 3037823#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 11:00:55 [notice] 3037823#0: signal process started
+2018/07/10 11:02:05 [alert] 3038047#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 11:02:05 [notice] 3038047#0: signal process started
+2018/07/10 11:02:56 [alert] 3038075#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 11:02:56 [notice] 3038075#0: signal process started
+2018/07/10 11:03:24 [alert] 3038215#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 11:03:24 [notice] 3038215#0: signal process started
+2018/07/10 11:03:28 [alert] 3038250#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 11:03:28 [notice] 3038250#0: signal process started
+2018/07/10 11:04:16 [alert] 3038371#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 11:04:16 [notice] 3038371#0: signal process started
+2018/07/10 11:05:00 [alert] 3038412#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 11:05:00 [notice] 3038412#0: signal process started
+2018/07/10 11:05:24 [alert] 3038518#0: lua_code_cache is off; this will hurt performance in /root/wangpeng/pcs/conf/nginx.conf:28
+2018/07/10 11:05:24 [notice] 3038518#0: signal process started
