@@ -10,5 +10,5 @@ RUN 	chmod 777 /xm_workspace/xmcloud3.0/OpenrestyPullCertsServer/*
 WORKDIR /xm_workspace/xmcloud3.0/OpenrestyPullCertsServer/
 CMD	["supervisord"]
 
-EXPOSE 8001 8002
+EXPOSE 8002
 
