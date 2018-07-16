@@ -6,6 +6,8 @@ COPY    supervisord.conf /etc/supervisord.conf
 COPY    pcs/ /xm_workspace/xmcloud3.0/OpenrestyPullCertsServer/
 RUN     mkdir /xm_workspace/xmcloud3.0/OpenrestyPullCertsServer/common_lua
 COPY    common_lua/ /xm_workspace/xmcloud3.0/OpenrestyPullCertsServer/common_lua/
+COPY    common_lua/http.lua /usr/local/openresty/lualib/resty/.
+COPY    common_lua/http_headers.lua /usr/local/openresty/lualib/resty.
 
 RUN     chmod 777 /xm_workspace/xmcloud3.0/OpenrestyPullCertsServer/*
 
